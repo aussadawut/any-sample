@@ -10,4 +10,8 @@ public class Test1 {
 	public Test1(){
 		
 	}
+	
+	public Test1(String abc){
+		System.out.println("555");
+	}
 }
