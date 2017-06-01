@@ -11,7 +11,11 @@ public class Test1 {
 		
 	}
 
-	public Test1(){
+	public Test1(int i){
 		
+	}
+	
+	public Test1(){
+		System.out.println("Hello");	
 	}
 }
