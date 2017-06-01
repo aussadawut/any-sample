@@ -8,4 +8,8 @@ public class Test {
 	public Test(String t){
 		
 	}
+	
+	public Test(int i){
+		
+	}
 }
