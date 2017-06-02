@@ -12,10 +12,11 @@ public class Test1 {
 	}
 
 	public Test1(int i){
-		
+		//55555
 	}
 	
 	public Test1(){
-		System.out.println("Test1()");
+		int i=0;
+		if(i==0) System.out.print("Hello");
 	}
 }
